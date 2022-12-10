@@ -1,0 +1,23 @@
+---
+title: MeUmy天下第一
+subtitle: ACM模板
+fontsize: 14pt
+# author:          # 作者（数组）
+#   - 作者
+# date: \today     # 日期
+lof: false        # 是否生成插图列表页
+lot: false        # 是否生成表格列表页
+# homepage: https://github.com/annProg/PanBook
+# identifier:                      # epub用
+#   - scheme: DOI
+#     text: doi:10.234234.234/33
+# publisher: PanBook       # epub用
+# rights: © 2017 An He, CC BY-NC   # epub用
+cover-image: images/Nahida2.png    # epub用
+header-includes:
+  - \usepackage{zhlipsum}  
+  - \usepackage{amssymb} 
+# 不引用，但是显示在参考文献列表里。通配符 @* 表示全部在列表里显示  
+# nocite: |
+#   @pandocManual,@foz
+...
